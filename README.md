@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 26-02-2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -30,13 +30,12 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
+## Output:
 
-### Output:
+![alt text](<Screenshot 2026-03-15 100631.png>)
 
-
-### Name:
-### Register Number:
+### Name:VISHWA S
+### Register Number:25012636
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
